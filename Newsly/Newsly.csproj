@@ -82,6 +82,8 @@
     <Content Include="imgs\404.png" />
     <Content Include="imgs\header-background.jpg" />
     <Content Include="imgs\news.png" />
+    <Content Include="imgs\ss1.PNG" />
+    <Content Include="imgs\ss2.PNG" />
     <Content Include="News.css" />
     <Content Include="Register.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
